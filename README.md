@@ -1,4 +1,5 @@
 # Cyrillic
+[![Build Status](https://travis-ci.org/dream-group/cyrillic.svg?branch=master)](https://travis-ci.org/dream-group/cyrillic)
 
 A simple cyrillic to latin transliteration component.
 
