@@ -10,3 +10,6 @@ Usage is really simple:
 ```php
 \Dream\Cyrillic::translit('Путин'); // 'Putin'
 ```
+
+Original link?
+http://avancore.googlecode.com/svn/trunk/Avancore/vendor/translit.php
