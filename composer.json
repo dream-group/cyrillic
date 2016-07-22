@@ -1,0 +1,14 @@
+{
+    "name": "dream-group/cyrillic",
+    "description": "A simple cyrillic to latin transliteration component.",
+	"keywords": ["cyrillic", "lation", "transliterate", "translit"],
+    "require": {
+        "php": ">=5.5.0"
+    },
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Dream\\": "src"
+        }
+    }
+}
