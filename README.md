@@ -9,7 +9,7 @@ The URL where this was originally posted has been taken down, unfortunately.
 Usage is really simple:
 
 ```php
-\Dream\Cyrillic::translit('Путин'); // 'Putin'
+\Dream\Cyrillic::translit('Путин хуйло'); // 'Putin khujlo'
 ```
 
 Original link?
